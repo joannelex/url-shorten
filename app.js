@@ -65,7 +65,7 @@ const main = async () => {
     if (url_starts_with_http) {
       // todo: get data from shortener module
       const data = {
-        key: 'an-added-key',
+        key: 'added-key',
         url: 'http://some-url',
         created: '2020-03-08T22:35:44.076560-07:00',
         updated: '2020-03-08T22:35:44.076560-07:00'
